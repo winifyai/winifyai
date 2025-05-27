@@ -12,19 +12,28 @@ Get started with a free trial – no credit card required.
 
 ---
 
-## 🧪 Sample Security Questionnaires
+## 🧪 Sample Security Questionnaires and Knowledge Hub Documents
 
-This repo includes **sample security questionnaires and compliance documents** you can use to explore and test WinifyAI.
+This repository includes **sample security questionnaires and compliance documents** you can explore and use to test WinifyAI.
 
-### `/samples/security-questionnaires/`
+### Folder structure:
+
+samples/
+├── security-questionnaires/
+│ └── standard-questionnaire.pdf
+├── knowledge-hub-docs/
+│ └── acme-security-overview.pdf
+
+
+### Available samples:
+
+#### `/samples/security-questionnaires/`
 - `standard-questionnaire.pdf` – 50 common vendor security questions
-- `soc2-questionnaire.docx` – SOC 2-aligned customer request form
 
-### `/samples/knowledge-hub-docs/`
-- `sample-privacy-policy.pdf`
-- `sample-infosec-policy.docx`
+#### `/samples/knowledge-hub-docs/`
+- `acme-security-overview.pdf` – Overview of security policies and posture
 
-These can be uploaded into WinifyAI’s Knowledge Hub and used to auto-generate answers.
+These files can be uploaded into WinifyAI’s Knowledge Hub to auto-generate answers for vendor questionnaires.
 
 ---
 
@@ -82,3 +91,4 @@ Feel free to contribute new sample files or suggest improvements via GitHub Issu
 This repository is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
