@@ -19,10 +19,8 @@ This repository includes **sample security questionnaires and compliance documen
 ### Folder structure:
 
 samples/
-├── security-questionnaires/
-│ └── standard-questionnaire.pdf
-├── knowledge-hub-docs/
-│ └── acme-security-overview.pdf
+|-- security-questionnaires/
+| -- standard-questionnaire.pdf |-- knowledge-hub-docs/ -- acme-security-overview.pdf
 
 
 ### Available samples:
